@@ -1,5 +1,5 @@
 {
-	"name": "Laravel Start 1",
+	"name": "Laravel Start",
 	"description": "Laravel for Project",
-	"addons": ["heroku-postgresql"]
+	"addons": ["heroku-postgresql:hobby-dev"]
 }
